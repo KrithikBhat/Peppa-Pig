@@ -1,6 +1,6 @@
 public class Conditionalsprac {
     public static void main(String[] args) {
-        float x = 1500;
+        double x = 1500;
 
         if (x < 100){
             x += 50;
